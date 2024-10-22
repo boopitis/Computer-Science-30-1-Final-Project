@@ -1,0 +1,6 @@
+0001,Stephen,Victor Lorenzana,Ravelo,M,82,1500,20,bingbong
+0002,Adel,Looper,Al Shemari,O,44,720,17,shwoop
+0003,Esteban,Yupper,Munoz,M,17,600,19,bipitybop
+0004,Edwina,Wooper,Ng,F,18,3000,15,boop
+0005,EJ,Mooper,Viernes,O,77,0,24,yessirrrrrr
+0006,Booper,M.,Dooper,M,22,0,65,beep

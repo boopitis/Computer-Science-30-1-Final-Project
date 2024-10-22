@@ -1,0 +1,6 @@
+000001,Stephen,Victor Lorenzana,Ravelo,M,17,blk,bro,31,DEC,2004,175,74
+000002,Michael,NA,Wen,M,22,red,bro,1,OCT,2400,169,60
+000003,David,NA,Park,M,34,wht,red,18,AUG,2066,182,66
+000004,Alfred,NA,Jiao,F,14,blu,pnk,1,MAY,2042,181,90
+000005,Erson,Jerin,Viernes,O,99,ylw,bro,12,NOV,2005,170,55
+000006,Aaron,NA,Lauang,M,20,blk,bro,8,9,2004,1020,1

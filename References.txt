@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/1625234/how-to-append-text-to-an-existing-file-in-java
+https://www.w3schools.com/java/java_arraylist.asp
+https://docs.oracle.com/javase/7/docs/api/java/nio/file/Files.html
+https://docs.oracle.com/javase/8/docs/api/java/time/LocalTime.html
+https://www.geeksforgeeks.org/remove-leading-zeros-from-string-in-java/
